@@ -1,5 +1,5 @@
 # teststw
 
-1. Tezt de lista
+1. Test de lista
 2. P
 
